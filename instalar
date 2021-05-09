@@ -1,0 +1,10 @@
+styled-components
+react-dropzone
+react-circular-progressbar
+react-icons
+lodash
+filesize
+axios
+
+
+ir no package json e mudar a porta no "start" para 3001
